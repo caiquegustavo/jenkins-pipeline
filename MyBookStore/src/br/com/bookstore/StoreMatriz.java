@@ -4,6 +4,7 @@ public class StoreMatriz {
 
 	private String name;
 	private String age;
+	private String height;
 
 	public String getName() {
 		return name;
