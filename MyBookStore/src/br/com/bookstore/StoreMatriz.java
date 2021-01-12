@@ -3,6 +3,7 @@ package br.com.bookstore;
 public class StoreMatriz {
 
 	private String name;
+	private String age;
 
 	public String getName() {
 		return name;
