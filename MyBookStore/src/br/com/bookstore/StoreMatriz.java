@@ -2,7 +2,7 @@ package br.com.bookstore;
 
 public class StoreMatriz {
 
-	private tring name;
+	private String name;
 
 	public String getName() {
 		return name;
